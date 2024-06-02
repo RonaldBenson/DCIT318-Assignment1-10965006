@@ -1,0 +1,14 @@
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 1 projects\TicketPriceCalculator\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.exe
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 1 projects\TicketPriceCalculator\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.deps.json
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 1 projects\TicketPriceCalculator\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.runtimeconfig.json
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 1 projects\TicketPriceCalculator\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.dll
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 1 projects\TicketPriceCalculator\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.pdb
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 1 projects\TicketPriceCalculator\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 1 projects\TicketPriceCalculator\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.AssemblyInfoInputs.cache
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 1 projects\TicketPriceCalculator\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.AssemblyInfo.cs
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 1 projects\TicketPriceCalculator\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 1 projects\TicketPriceCalculator\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.dll
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 1 projects\TicketPriceCalculator\TicketPriceCalculator\obj\Debug\net8.0\refint\TicketPriceCalculator.dll
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 1 projects\TicketPriceCalculator\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.pdb
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 1 projects\TicketPriceCalculator\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.genruntimeconfig.cache
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 1 projects\TicketPriceCalculator\TicketPriceCalculator\obj\Debug\net8.0\ref\TicketPriceCalculator.dll
